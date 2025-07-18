@@ -52,7 +52,7 @@ label {
 
 input[type="radio"] {
     margin-right: 5px;
-    transform: scale(1.2);
+    transform: scale(1.2); 
 }
 
 button {
